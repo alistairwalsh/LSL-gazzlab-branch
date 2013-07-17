@@ -1,0 +1,2 @@
+/Users/ashmakov/Work/labstreaminglayer/LSL/liblsl/build/external/CMakeFiles/boost.dir
+/Users/ashmakov/Work/labstreaminglayer/LSL/liblsl/build/src/CMakeFiles/lsl.dir
